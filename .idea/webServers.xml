@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="be43b603-5d28-438e-bc34-8189e4541dd2" name="HTW Webspace" url="http://home.htw-berlin.de/~s0553506">
+        <fileTransfer host="remserv.rz.htw-berlin.de" port="22" rootFolder="/.amd_mnt/amor/export/home/user/K/s0553506" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
